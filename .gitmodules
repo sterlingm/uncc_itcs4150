@@ -1,0 +1,15 @@
+[submodule "lib/openslam_gmapping"]
+	path = lib/openslam_gmapping
+	url = https://github.com/ros-perception/openslam_gmapping.git
+[submodule "lib/turtlebot3"]
+	path = lib/turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+[submodule "lib/slam_gmapping"]
+	path = lib/slam_gmapping
+	url = https://github.com/ros-perception/slam_gmapping.git
+[submodule "lib/turtlebot3_simulations"]
+	path = lib/turtlebot3_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+[submodule "lib/turtlebot3_msgs"]
+	path = lib/turtlebot3_msgs
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
