@@ -25,3 +25,7 @@
 [submodule "lib/turtlebot_simulator"]
 	path = lib/turtlebot_simulator
 	url = https://github.com/turtlebot/turtlebot_simulator.git
+[submodule "lib/depthimage_to_laserscan"]
+	path = lib/depthimage_to_laserscan
+	url = https://github.com/ros-perception/depthimage_to_laserscan.git
+	branch = mikaelarguedas-patch-1
