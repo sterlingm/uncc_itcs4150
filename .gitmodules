@@ -13,3 +13,12 @@
 [submodule "lib/turtlebot3_msgs"]
 	path = lib/turtlebot3_msgs
 	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+[submodule "lib/turtlebot"]
+	path = lib/turtlebot
+	url = https://github.com/turtlebot/turtlebot.git
+[submodule "lib/kobuki"]
+	path = lib/kobuki
+	url = https://github.com/yujinrobot/kobuki.git
+[submodule "lib/yujin_ocs"]
+	path = lib/yujin_ocs
+	url = https://github.com/yujinrobot/yujin_ocs.git
